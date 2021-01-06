@@ -73,16 +73,5 @@ sections:
     title: Stay updated
     show_recent: false
     recent_count: 0
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 template: advanced
 ---
