@@ -69,11 +69,5 @@ sections:
           - label: Feedback
             url: /features
             style: secondary
-          - label: 'https://www.youtube.com/watch?v=hcUUAl5uhvs&feature=youtu.be'
-            url: lorem-ipsum
-            style: link
-            new_window: false
-            no_follow: false
-            type: action
 template: advanced
 ---
