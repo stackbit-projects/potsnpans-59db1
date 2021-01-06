@@ -58,7 +58,7 @@ sections:
             style: secondary
       - title: How it started
         content: |-
-          Miso-glazed Grilled Aubergine
+          ###### **Miso-glazed Grilled Aubergine
 
           with Yoghurt/Harissa Couscous
         align: left
