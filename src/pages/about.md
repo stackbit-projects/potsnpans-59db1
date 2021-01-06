@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: 'What''s this about? '
 excerpt: ''
 template: page
 ---
