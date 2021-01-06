@@ -72,7 +72,7 @@ sections:
   - type: blog_feed_section
     title: Stay updated
     show_recent: false
-    recent_count: 3
+    recent_count: 0
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
