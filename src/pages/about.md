@@ -1,6 +1,6 @@
 ---
 title: 'What''s this about? '
-excerpt: ''
+excerpt: Live action online cooking classes
 template: page
 ---
 ## Lorem ipsum
