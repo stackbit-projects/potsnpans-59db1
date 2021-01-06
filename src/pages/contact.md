@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Pot
 sections:
   - type: hero_section
     title: Contact
