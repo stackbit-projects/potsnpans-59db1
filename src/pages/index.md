@@ -31,7 +31,9 @@ sections:
       - title: Upcoming
         content: |-
           Date
+
           Time
+
           Dish
         align: left
         image: images/feature.svg
