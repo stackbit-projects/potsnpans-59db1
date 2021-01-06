@@ -69,5 +69,11 @@ sections:
           - label: Feedback
             url: /features
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
 template: advanced
 ---
