@@ -1,5 +1,5 @@
 ---
-title: Who we are
+title: Pots'nn Pans
 sections:
   - type: hero_section
     title: Contact
