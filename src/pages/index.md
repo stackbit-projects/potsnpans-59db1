@@ -17,7 +17,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image: images/fierce-tiger.jpg
       background_image_opacity: 100
       background_image_size: cover
