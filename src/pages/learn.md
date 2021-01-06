@@ -1,6 +1,6 @@
 ---
 title: What's it all about?
-excerpt: 'Please meet our lovely chef for this session, based in München:  Moritz Cebulj'
+excerpt: ''
 template: page
 ---
 **Please meet our lovely chef for this session, based in München: 
