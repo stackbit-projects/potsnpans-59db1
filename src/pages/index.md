@@ -56,7 +56,7 @@ sections:
           - label: Feedback
             url: /features
             style: secondary
-      - title: Miso-glazed Grilled Aubergine with Yoghurt/Harissa Couscous
+      - title: How it started
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
