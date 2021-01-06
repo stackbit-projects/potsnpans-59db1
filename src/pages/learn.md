@@ -1,5 +1,5 @@
 ---
-title: What's it all about
+title: What's it all about?
 excerpt: lorem-ipsum
 template: page
 ---
