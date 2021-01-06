@@ -21,7 +21,7 @@ sections:
       background_image: images/fierce-tiger.jpg
       background_image_opacity: 100
       background_image_size: cover
-      background_image_repeat: no-repeat
+      background_image_repeat: repeat
   - type: features_section
     title: Sessions
     features:
