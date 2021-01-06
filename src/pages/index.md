@@ -8,7 +8,7 @@ sections:
       Hosted by experienced chefs, focusing on sustainable and quality dishes
     actions:
       - label: Learn More
-        url: /
+        url: /learn
         style: primary
         new_window: true
       - label: Contact Us
