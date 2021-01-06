@@ -11,9 +11,6 @@ sections:
         url: /learn
         style: primary
         new_window: true
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
