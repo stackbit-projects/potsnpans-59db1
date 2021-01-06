@@ -44,10 +44,10 @@ sections:
             url: /features
             style: secondary
       - title: Autum Edition
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |-
+          Autmn in the Root Yard
+
+          beets and roots on pumpernickel
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
