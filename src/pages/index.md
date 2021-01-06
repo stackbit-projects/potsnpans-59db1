@@ -69,9 +69,5 @@ sections:
           - label: Feedback
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: Stay updated
-    show_recent: false
-    recent_count: 0
 template: advanced
 ---
