@@ -19,7 +19,7 @@ sections:
     background:
       background_color: white
       background_image: images/fierce-tiger.jpg
-      background_image_opacity: 20
+      background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
