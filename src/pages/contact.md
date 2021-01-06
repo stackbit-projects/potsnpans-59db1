@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Pots'n Pans
 sections:
   - type: hero_section
     title: Contact
