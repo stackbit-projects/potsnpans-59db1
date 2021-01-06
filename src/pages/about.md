@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-excerpt: lorem-ipsum
+excerpt: 'What''s this about? '
 template: page
 ---
 ## Lorem ipsum
