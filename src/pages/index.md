@@ -71,7 +71,7 @@ sections:
             style: secondary
   - type: blog_feed_section
     title: Stay updated
-    show_recent: true
+    show_recent: false
     recent_count: 3
   - type: cta_section
     title: This Is A CTA
