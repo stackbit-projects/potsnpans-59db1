@@ -62,7 +62,7 @@ sections:
 
           with Yoghurt/Harissa Couscous
         align: left
-        image: images/feature.svg
+        image: images/unnamed.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
