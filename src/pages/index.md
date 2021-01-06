@@ -18,7 +18,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/knowledgeable-coriander.png
+      background_image: images/41IJAn9qrwL._AC_SL1000_.jpg
       background_image_opacity: 1
       background_image_size: cover
       background_image_repeat: no-repeat
