@@ -5,7 +5,7 @@ sections:
     title: Contact
     align: center
   - type: contact_section
-  - title: lorem-ipsum
+  - title: Who We Are
     content: >-
       ## Lorem ipsum
 
