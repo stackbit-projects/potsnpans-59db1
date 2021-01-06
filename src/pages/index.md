@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Pots' n Pans
-    subtitle: ''
+    subtitle: >-
+      Live action online cooking classes  from the comfort of your own kitchen  
+      Hosted by experienced chefs, focusing on sustainable and quality dishes
     actions:
       - label: Learn More
         url: /features
