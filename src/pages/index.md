@@ -46,7 +46,7 @@ sections:
 
           beets and roots on pumpernickel
         align: left
-        image: images/unnamed.png
+        image: images/My Post.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
