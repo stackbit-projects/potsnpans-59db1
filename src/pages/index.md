@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pots'n Pans
 sections:
   - type: hero_section
     title: Pots' n Pans
