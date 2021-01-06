@@ -45,7 +45,7 @@ sections:
             style: secondary
       - title: Autum Edition
         content: |-
-          Autmn in the Root Yard
+          ###### Autmn in the Root Yard
 
           beets and roots on pumpernickel
         align: left
